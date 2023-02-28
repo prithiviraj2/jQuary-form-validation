@@ -1,0 +1,23 @@
+
+.error {
+    color: red;
+}
+.bodybg{
+    background-color: black;
+}
+h4{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 5px white;
+}
+.card{
+    background-color: rgb(110,134,132) ;
+}
+.link{
+    color: white;
+    text-decoration: none;
+}
+span{
+    color: black;
+}
